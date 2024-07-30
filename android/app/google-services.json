@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274878112636",
+    "project_id": "auth-figma",
+    "storage_bucket": "auth-figma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274878112636:android:ebfa21568bf6212dadfaf9",
+        "android_client_info": {
+          "package_name": "com.example.auth_figma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWDSY33IXqMwSc9RYXH_8Om2caSThvmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
